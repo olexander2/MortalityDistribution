@@ -1,0 +1,13 @@
+form{
+    margin:20px;
+}
+
+
+.map {
+    width: 100vmax;
+    height: 100vh;
+}
+
+path.highlight{
+    fill: indianred;
+}
